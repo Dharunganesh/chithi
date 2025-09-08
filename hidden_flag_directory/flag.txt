@@ -1,0 +1,1 @@
+﻿CTF{robots_are_your_friends}
